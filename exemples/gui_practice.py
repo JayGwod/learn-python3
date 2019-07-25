@@ -7,7 +7,7 @@
 # Distributed under terms of the MIT license.
 
 """
-使用Tkinter十分简单，我们来编写一个GUI版本的“Hello, world!”。
+使用Tkinter来编写一个GUI版本的计算器。
 """
 from tkinter import *
 import tkinter.messagebox as messagebox
